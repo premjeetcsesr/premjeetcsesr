@@ -88,7 +88,8 @@ I’m **Premjeet**, a passionate Software Developer and Computer Science enthusi
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=premjeetcesr&theme=tokyonight&hide_border=true" alt="streak"/>
+  <!-- GitHub Streak Stats (Corrected Username) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premjeetcsesr&theme=tokyonight&hide_border=true" alt="streak"/>
 </div>
 
 ---
@@ -96,7 +97,8 @@ I’m **Premjeet**, a passionate Software Developer and Computer Science enthusi
 ## 📈 Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premjeetcesr&theme=tokyo-night&hide_border=true" width="100%" />
+  <!-- Activity Graph (Corrected Username) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premjeetcsesr&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ---
