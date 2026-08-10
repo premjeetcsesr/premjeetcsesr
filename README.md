@@ -36,7 +36,6 @@
         <li>☕ Strong focus on <b>Java, Data Structures & Algorithms</b></li>
         <li>🌐 Founder & Lead Developer at <b><a href="https://studygrouphub.in">StudyGroupHub</a></b></li>
         <li>🤖 Exploring <b>Artificial Intelligence & Generative AI</b></li>
-        <li>🌱 Currently improving my <b>DSA, System Design & Development skills</b></li>
         <li>📫 How to reach me: <b>premjeetcesr@gmail.com</b></li>
       </ul>
       
@@ -54,28 +53,13 @@
 
 ---
 
-<!-- ===================== FEATURED PROJECT ===================== -->
-<h2 align="center">🏗️ Featured Project</h2>
-
-<div align="center">
-  <h3>🎓 StudyGroupHub</h3>
-  <p>An educational platform focused on helping students access quality learning resources, coding content, exam preparation material, and career opportunities.</p>
-  
-  <a href="https://studygrouphub.in"><img src="https://img.shields.io/badge/Website-studygrouphub.in-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  
-  <br/><br/>
-  <sub><i>🔭 Working on: Educational resources, interview prep, community features & AI-powered learning tools.</i></sub>
-</div>
-
----
-
 <!-- ===================== SOCIAL & PLATFORM CONNECT ===================== -->
 <h2 align="center">🌐 Connect & Profiles</h2>
 
 <div align="center">
 
   <!-- Social Icons -->
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/premjeetcsesr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://studygrouphub.in"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:premjeetcesr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -111,36 +95,74 @@
     <img src="https://skillicons.dev/icons?i=java,mysql,firebase&theme=dark" alt="backend" />
   </p>
 
-  <h3>🧰 Developer Tools & AI</h3>
+  <h3>🧰 Developer Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,python&theme=dark" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="tools" />
   </p>
 
 </div>
 
 ---
 
-<!-- ===================== CURRENTLY LEARNING ROADMAP ===================== -->
-<h2 align="center">🧠 Currently Learning</h2>
+<!-- ===================== DETAILED BIO ===================== -->
+<h2>🌟 Deep Dive About Me</h2>
 
-```text
-DSA
- ├── Arrays
- ├── Strings
- ├── Linked List
- ├── Stack & Queue
- ├── Trees
- ├── Graphs
- └── Dynamic Programming
+I am a passionate and motivated Software Developer specializing in Java backend development, core web technologies, and software architecture. Currently building **StudyGroupHub**, an educational ecosystem aimed at providing students with structured study materials, syllabus updates, and learning resources.
 
-Development
- ├── Core Web Tech (HTML, CSS, JS, Bootstrap)
- ├── Relational Databases (MySQL)
- ├── Java Backend Architecture
- └── System Design
+My primary focus revolves around solving complex computational problems using **Java & Data Structures**, building robust web backends with relational databases like MySQL, and integrating modern AI tools to streamline productivity.
 
-AI
- ├── Generative AI
- ├── LLM Applications
- ├── AI APIs
- └── AI-powered Products
+### 🎓 Education
+* **Computer Science & Engineering Student**
+
+---
+
+<h2 align="center">🤝 Let's Collaborate</h2>
+<p align="center">
+  Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in <b>AI 🤖</b>, <b>Java Development ☕</b>, or <b>Web Engineering 🌐</b>. Let’s make something amazing together! 🚀
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<div align="center">
+  <img src="https://github.com/nirmaltodwal7/GIF-2/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Footer Pixel Banner" width="100%" style="border-radius: 8px;" />
+  
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<!-- ===================== FULL WIDTH ANALYTICS CARDS ===================== -->
+<h2>📈 GitHub Analytics</h2>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=premjeetcsesr&show_icons=true&theme=tokyonight" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=premjeetcsesr&theme=tokyonight" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=premjeetcsesr&layout=compact&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premjeetcsesr&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><i>Thank you for visiting my profile! Feel free to star 🌟 my repositories.</i></sub>
+</div>
