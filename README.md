@@ -25,33 +25,19 @@
 <br/>
 
 <!-- ===================== SPLIT SECTION (ABOUT & GIF) ===================== -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+## 🚀 About Me
 
-    <td width="60%" valign="top">
-      <h2>🚀 About Me</h2>
-      <p>I’m a passionate <b>Software Developer</b> and Computer Science enthusiast who loves building real-world applications, exploring new technologies, and solving complex problems.</p>
-      
-      <ul>
-        <li>💻 Interested in <b>Software Development & Web Engineering</b></li>
-        <li>☕ Strong focus on <b>Java, Data Structures & Algorithms</b></li>
-        <li>🌐 Founder & Lead Developer at <b><a href="https://studygrouphub.in">StudyGroupHub</a></b></li>
-        <li>🤖 Exploring <b>Artificial Intelligence & Generative AI</b></li>
-        <li>📫 How to reach me: <b>premjeetcesr@gmail.com</b></li>
-      </ul>
-      
-      <br/>
-      
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=premjeetcsesr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img alt="coding animation" width="100%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="border-radius: 10px;" />
-    </td>
- 
-</table>
+I’m a passionate **Software Developer** and Computer Science enthusiast who loves building real-world applications, exploring new technologies, and solving complex problems.
 
----
+* 💻 Interested in **Software Development & Web Engineering**
+* ☕ Strong focus on **Java, Data Structures & Algorithms**
+* 🌐 Founder & Lead Developer at **[StudyGroupHub](https://studygrouphub.in)**
+* 🤖 Exploring **Artificial Intelligence & Generative AI**
+* 📫 How to reach me: **premjeetcesr@gmail.com**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=premjeetcsesr&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 <!-- ===================== SOCIAL & PLATFORM CONNECT ===================== -->
 <h2 align="center">🌐 Connect & Profiles</h2>
